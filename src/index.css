@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family:'Roboto Mono', monospace;
+  background: linear-gradient(to left, rgba(145, 255, 206, 1)10%, rgba(0, 38, 93, 1)90%);
+}
